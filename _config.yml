@@ -1,0 +1,14 @@
+#site settings
+title: Young Living
+email: gitabimael.riveros@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  <h1>Young Living</h1>
+   Especializados en la producción y distribución de aceites esenciales de grado terapeuticos 100% orgánico, posee sus propios laboratorios y centros de produccion en varios paise. Estos aceites por sus propiedades moleculares tienen la capacidad de penetrar el tegido humano a travesar las membranas celulares. También a través del sistema respiratorio pueden dirigirse directamente al cerebro atravezando la barrera hematoencefálica. Esto los hace únicos capaces de tratar las enfermedades no sólo a nivel físico sino tambien emocional.
+
+baseurl: /young # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

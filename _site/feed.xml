@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young Living</title>
+    <description>&lt;h1&gt;Young Living&lt;/h1&gt;
+ Especializados en la producción y distribución de aceites esenciales de grado terapeuticos 100% orgánico, posee sus propios laboratorios y centros de produccion en varios paise. Estos aceites por sus propiedades moleculares tienen la capacidad de penetrar el tegido humano a travesar las membranas celulares. También a través del sistema respiratorio pueden dirigirse directamente al cerebro atravezando la barrera hematoencefálica. Esto los hace únicos capaces de tratar las enfermedades no sólo a nivel físico sino tambien emocional.
+</description>
+    <link>http://yourdomain.com/young/</link>
+    <atom:link href="http://yourdomain.com/young/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 02 Nov 2014 17:27:35 -0500</pubDate>
+    <lastBuildDate>Sun, 02 Nov 2014 17:27:35 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Bienestar</title>
+        <description>&lt;p&gt;Los beneficios de salud de nuestro nuevo NingXia Red incluye bienestar de la cabeza a los pies, mediante la infusión de nutrientes de todo el cuerpo.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/young/2014/11/20/red.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/young/2014/11/20/red.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Valor</title>
+        <description>&lt;p&gt;Valor es una mezcla única que ayuda a mejorar sus sentimientos de enpoderamiento y coraje para vencer obstáculos y temores.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/young/2014/10/20/ninja.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/young/2014/10/20/ninja.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
